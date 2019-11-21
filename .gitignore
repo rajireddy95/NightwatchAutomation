@@ -1,0 +1,11 @@
+
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/nightwatch_sample.iml
+.idea/vcs.xml
+node_modules
+reports
+screenshots
+selenium-server.log
+.idea/workspace.xml
